@@ -1,11 +1,6 @@
-### Hi there 👋
-
 ![My image](https://images.wallpaperscraft.com/image/single/water_surface_ripples_141747_1920x1080.jpg)
 
-**VOHIEUTHANG/VOHIEUTHANG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
