@@ -1,8 +1,6 @@
 ![My image](./header-image.png)
 
-
 <h1 align="center">Hi 👋, I'm Vo Hieu Thang</h1>
-
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -31,14 +29,9 @@
 
 ### I’m currently learning application development major at Post And Telecommunication Information Of Technology HCM.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VOHIEUTHANG)](https://git.io/streak-stats)
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=VOHIEUTHANG&show_icons=true&theme=gotham" alt="Vo Hieu Thang" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=VOHIEUTHANG&show_icons=true&theme=aura" alt="Vo Hieu Thang" />
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=VOHIEUTHANG" alt="Vo Hieu Thang" />
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VOHIEUTHANG&show_icons=true&theme=aura&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VOHIEUTHANG&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOHIEUTHANG&layout=compact" alt="Vo Hieu Thang" />
 
 <h2 align="center">Languages and Tools</h2>
 
