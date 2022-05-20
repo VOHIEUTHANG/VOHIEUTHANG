@@ -1,5 +1,3 @@
-![My image](./header-image.png)
-
 <h1 align="center">Hi 👋, I'm Vo Hieu Thang</h1>
 
 <div id="header" align="center">
