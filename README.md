@@ -27,6 +27,9 @@
 ### I’m currently learning application development major at Post And Telecommunication Information Of Technology HCM.
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=VOHIEUTHANG" alt="Vo Hieu Thang" />
+ <p align-"center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) />
+  
+  
 
 <h2 align="center">Languages and Tools</h2>
 
