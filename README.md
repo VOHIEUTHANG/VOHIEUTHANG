@@ -4,6 +4,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<a href="https://www.linkedin.com/in/th%E1%BA%AFng-v%C3%B5-hi%E1%BA%BFu-94556b231/" rel="nofollow"> <img src="https://camo.githubusercontent.com/46a64b46e5db134c875d304cfaaa8b1bf26d0ea55c187aaec6e6ab079103c451/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3065373661383f7374796c653d706c6173746963266c6f676f3d6c696e6b6564496e" data-canonical-src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&amp;logo=linkedIn" style="max-width: 100%;"> </a>
+
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
