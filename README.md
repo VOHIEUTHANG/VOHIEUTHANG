@@ -21,8 +21,8 @@
 ### Hi there 👋
 
 ### I’m currently learning application development major at Post And Telecommunication Information Of Technology HCM.
-### Linked: 
-<a href="https://www.linkedin.com/in/th%E1%BA%AFng-v%C3%B5-hi%E1%BA%BFu-94556b231/" rel="nofollow"> <img src="https://camo.githubusercontent.com/46a64b46e5db134c875d304cfaaa8b1bf26d0ea55c187aaec6e6ab079103c451/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3065373661383f7374796c653d706c6173746963266c6f676f3d6c696e6b6564496e" data-canonical-src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&amp;logo=linkedIn" style="max-width: 100%;"> </a>
+- Linked: <a href="https://www.linkedin.com/in/th%E1%BA%AFng-v%C3%B5-hi%E1%BA%BFu-94556b231/" rel="nofollow"> <img src="https://camo.githubusercontent.com/46a64b46e5db134c875d304cfaaa8b1bf26d0ea55c187aaec6e6ab079103c451/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3065373661383f7374796c653d706c6173746963266c6f676f3d6c696e6b6564496e" data-canonical-src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&amp;logo=linkedIn" style="max-width: 100%;"> </a>
+
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=VOHIEUTHANG&theme=radical" alt="Vo Hieu Thang" /></p>
  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOHIEUTHANG&layout=compact&theme=radical" /> </p>
