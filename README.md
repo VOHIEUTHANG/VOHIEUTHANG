@@ -8,11 +8,13 @@
 
 ### I’m currently learning application development major at Post And Telecommunication Information Of Technology HCM.
 
-
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=VOHIEUTHANG&theme=radical" alt="Vo Hieu Thang" /></p>
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOHIEUTHANG&layout=compact&theme=radical" /> </p>
-  
-  
+ 
+ <p align="center">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=VOHIEUTHANG&theme=radical" alt="Vo Hieu Thang" />
+ </p>
+  <p align="center">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOHIEUTHANG&layout=compact&theme=radical" /> 
+ </p>
 
 <h2 align="center">Languages and Tools</h2>
 
