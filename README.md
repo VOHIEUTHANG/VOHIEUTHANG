@@ -3,11 +3,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="160"/>
 </div>
-
-### Hi there 👋
-
-### I’m currently learning application development major at Post And Telecommunication Information Of Technology HCM.
-
  
  <p align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=VOHIEUTHANG&theme=radical" alt="Vo Hieu Thang" />
